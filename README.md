@@ -1,3 +1,6 @@
+# Archive Notice
+i'm archiving this project since it's unnecessary in the face of many others and also was a lot more work than i expected. i may pick it up again in the future, but that remains to be seen.
+
 # Cellinux - In Short
 in short, this is an experimental concept app designed to give a simple and clean UI for cellular functionality on Linux
 
